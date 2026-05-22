@@ -1,9 +1,5 @@
 ## Hi, let's discuss 👋
 
-![Kirigami Ocean image](StockCake-Layered_Ocean_Artistry-4158737-medium.jpg)
-
-*[Layered Ocean Artistry](https://stockcake.com/i/layered-ocean-artistry_4158737_1865821) by [StockCake](https://stockcake.com)*
-
 ### 🌊 An interconnected community
 
 We're an open source community 💗 focused on making on-line conversations easier to follow and understand.
@@ -13,6 +9,10 @@ We're an open source community 💗 focused on making on-line conversations easi
 We build tools 🔧 to make it easier to communicate effectively when maintaining open source projects.
 
 - [kirigami](https://github.com/pykirigami/kirigami) - A web app that increases understanding of long threads, like PEPs on discuss.python.org, by giving the reader signals and custom views.
+
+![Kirigami Ocean image](StockCake-Layered_Ocean_Artistry-4158737-medium.jpg)
+
+*[Layered Ocean Artistry](https://stockcake.com/i/layered-ocean-artistry_4158737_1865821) by [StockCake](https://stockcake.com)*
 
 ### 🐳 Motivation
 
